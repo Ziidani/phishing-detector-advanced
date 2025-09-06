@@ -42,11 +42,6 @@ python scripts/create_ml_models.py
 python src/main.py
 ```
 
-## 📖 Documentação
-![Guia de Instalação](INSTALL.md) - Instruções detalhadas de instalação
-
-![Guia de Uso](USAGE.md) - Como usar a aplicação
-
 ## 🏗️ Estrutura do Projeto
 ```text
 phishing-detector-advanced/
