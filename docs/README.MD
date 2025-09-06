@@ -19,12 +19,6 @@ Um detector de phishing completo com interface gráfica, machine learning e múl
 
 ## 🚀 Começando
 
-### Pré-requisitos
-
-- Python 3.9+
-- Google Chrome
-- ChromeDriver
-
 ### Instalação
 
 ```bash
@@ -64,7 +58,7 @@ phishing-detector-advanced/
 5. Abra um Pull Request
 
 ## 📄 Licença
-Distribuído sob ![licença]() MIT. Veja LICENSE para mais informações.
+Distribuído sob [licença]() MIT. Veja LICENSE para mais informações.
 
 ## 📞 Contato
 Zidani - @ziidani - danieln1703@gmail.com
