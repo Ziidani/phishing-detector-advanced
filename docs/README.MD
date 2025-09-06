@@ -2,7 +2,7 @@
 
 Um detector de phishing completo com interface gráfica, machine learning e múltiplas técnicas de detecção.
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
 
