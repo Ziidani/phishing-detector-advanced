@@ -43,9 +43,9 @@ python src/main.py
 ```
 
 ## 📖 Documentação
-![Guia de Instalação](https://docs/INSTALL.md) - Instruções detalhadas de instalação
+![Guia de Instalação](docs/INSTALL.md) - Instruções detalhadas de instalação
 
-![Guia de Uso](https://docs/USAGE.md) - Como usar a aplicação
+![Guia de Uso](docs/USAGE.md) - Como usar a aplicação
 
 ## 🏗️ Estrutura do Projeto
 ```text
