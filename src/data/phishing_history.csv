@@ -1,0 +1,2 @@
+Timestamp,URL,Risk_Score,Risk_Level,Details
+2025-09-06 04:28:44,https://www.haustierbauernhof.de,70,ALTO RISCO,Emissor do certificado não é dos mais confiáveis: Let's Encrypt | Domínio muito novo (0 dias) | Modelo ML detectou 40 pontos de risco

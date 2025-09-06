@@ -1,0 +1,7 @@
+{
+    "check_ssl": true,
+    "check_content": true,
+    "take_screenshots": true,
+    "use_ml": true,
+    "timeout": 15
+}
